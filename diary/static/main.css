@@ -1,0 +1,70 @@
+body {
+  background: #f7fbe1;
+  color: #181717;
+  margin-top: 5rem;
+  font-family: 'Hind Madurai', sans-serif
+}
+
+.bg-clr {
+  background-color: #181717;
+}
+
+/*
+.head {
+  font-weight: 400;
+  margin: 10px;
+}*/
+
+.container {
+  max-width: 1500px;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.article-title {
+  color: black;
+}
+
+a.article-title:hover {
+  color: #d61414;
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.glow {
+  background-color: #bfbfbf;
+  border-radius: 10px;
+  padding: 5px
+}
