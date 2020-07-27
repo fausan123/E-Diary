@@ -1,4 +1,5 @@
 # E-Diary
+This is an E-Diary Web Application made using Python-Flask framework
 
 # Run
 
